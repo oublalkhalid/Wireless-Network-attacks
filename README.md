@@ -29,7 +29,7 @@ Obviously cracking is not part of this project, as ESP32 is not sufficient to cr
 1. Management AP is started automatically after boot
 1. Connect to this AP\
 By default: 
-*SSID:* `ManagementAP` and *password:* `mgmtadmin`
+*SSID:* `TelecomeParisAP` and *password:* `telcomeparis`
 1. In browser open `192.168.4.1` and you should see a web client to configure and control tool like this:
 
     ![Web client UI](doc/images/ui-config.png)
