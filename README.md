@@ -5,8 +5,7 @@ This project presents a new technique to detect and prevent evil twin attacks, b
 Obviously, cracking is not part of this project, as ESP32 is not sufficient to crack hashes efficiently. The rest can be done on this small, cheap and low power SoC.
 
 
-# ESP32 Wi-Fi Penetration Tool
-
+# Overview
 <p align="center">
     <img src="doc/images/logo.png" alt="Logo">
 </p>
