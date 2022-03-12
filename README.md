@@ -7,6 +7,10 @@ Obviously, cracking is not part of this project, as ESP32 is not sufficient to c
 
 # Overview
 <p align="center">
+    <img src="/doc/attacks/scheem.png" alt="overview">
+</p>
+
+<p align="center">
     <img src="/doc/attacks/deauth-frame-format.drawio.svg" alt="Logo">
 </p>
 
