@@ -1,4 +1,4 @@
-# An Evil Twin Attack detection and prevention from user's side using deep transfert learning
+# An Evil Twin Attack detection and prevention from user's side using Deep Transfert Learning
 
 This project presents a new technique to detect and prevent evil twin attacks, based on advanced deep learning and transfer learning techniques. To do this we used a universal tool for the ESP32 platform to implement various Wi-Fi attacks. It provides common functionality that is commonly used in Wi-Fi attacks and makes the implementation of new attacks a bit easier. It also includes the Wi-Fi attacks themselves such as capturing PMKIDs from handshakes, or the handshakes themselves by different methods such as starting a duplicate AP or sending deauthentication frames directly, etc...
 
